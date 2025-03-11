@@ -5,210 +5,240 @@
       "name": "Luminous Echo",
       "size": "S",
       "price": 19.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product1.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product1.png",
+      "description": "A timeless piece that radiates elegance. Crafted with the finest materials. Soft to the touch, gentle on the skin. Designed for those who appreciate beauty. A statement of sophistication and grace. Elevate your style effortlessly. Wear it, feel the confidence."
     },
     {
       "id": 2,
       "name": "Ethereal Glow",
       "size": "M",
       "price": 24.5,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product2.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product2.png",
+      "description": "Inspired by the hues of twilight. Delicate textures meet bold expression. The perfect balance of art and fashion. Lightweight and breathable, ideal for all seasons. Soft contours designed to embrace movement. A fusion of nature and modernity. Discover comfort in every thread."
     },
     {
       "id": 3,
       "name": "Whispering Light",
       "size": "L",
       "price": 21.75,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product3.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product3.png",
+      "description": "Bathed in the glow of the golden hour. A symphony of soft hues and delicate details. Designed to flow seamlessly with your movement. A blend of tradition and contemporary charm. Lightweight yet durable for lasting wear. Every stitch tells a story of craftsmanship. A masterpiece woven into fabric."
     },
     {
       "id": 4,
       "name": "Serene Reflection",
       "size": "XL",
       "price": 29.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product4.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product4.png",
+      "description": "Inspired by serene mornings and quiet reflections. Subtle yet powerful, bold yet refined. A texture that whispers comfort. Crafted to fit your body like a second skin. Simplicity redefined through intricate details. Designed to make a lasting impression. An elegant companion for any occasion."
     },
     {
       "id": 5,
       "name": "Aqua Reverie",
-      "size": "M",
+      "size": "S",
       "price": 18.5,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product5.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product5.png",
+      "description": "A dance of light and shadow in fabric. A poetic interpretation of timeless fashion. Inspired by the beauty of nature's elements. Designed to keep you comfortable all day. A reflection of effortless elegance. Versatility meets refined aesthetics. Graceful, modern, and endlessly wearable."
     },
     {
       "id": 6,
       "name": "Golden Haze",
-      "size": "L",
+      "size": "M",
       "price": 22.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product6.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product6.png",
+      "description": "A timeless piece that radiates elegance. Crafted with the finest materials. Soft to the touch, gentle on the skin. Designed for those who appreciate beauty. A statement of sophistication and grace. Elevate your style effortlessly. Wear it, feel the confidence."
     },
     {
       "id": 7,
       "name": "Celestial Veil",
-      "size": "S",
+      "size": "L",
       "price": 27.75,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product7.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product7.png",
+      "description": "Inspired by the hues of twilight. Delicate textures meet bold expression. The perfect balance of art and fashion. Lightweight and breathable, ideal for all seasons. Soft contours designed to embrace movement. A fusion of nature and modernity. Discover comfort in every thread."
     },
     {
       "id": 8,
       "name": "Silent Murmurs",
       "size": "XL",
       "price": 31.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product8.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product8.png",
+      "description": "Bathed in the glow of the golden hour. A symphony of soft hues and delicate details. Designed to flow seamlessly with your movement. A blend of tradition and contemporary charm. Lightweight yet durable for lasting wear. Every stitch tells a story of craftsmanship. A masterpiece woven into fabric."
     },
     {
       "id": 9,
       "name": "Vanishing Horizon",
-      "size": "M",
+      "size": "S",
       "price": 25.49,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product9.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product9.png",
+      "description": "Inspired by serene mornings and quiet reflections. Subtle yet powerful, bold yet refined. A texture that whispers comfort. Crafted to fit your body like a second skin. Simplicity redefined through intricate details. Designed to make a lasting impression. An elegant companion for any occasion."
     },
     {
       "id": 10,
       "name": "Timeless Gaze",
-      "size": "S",
+      "size": "M",
       "price": 19.25,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product10.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product10.png",
+      "description": "A dance of light and shadow in fabric. A poetic interpretation of timeless fashion. Inspired by the beauty of nature's elements. Designed to keep you comfortable all day. A reflection of effortless elegance. Versatility meets refined aesthetics. Graceful, modern, and endlessly wearable."
     },
     {
       "id": 11,
       "name": "Misty Mirage",
       "size": "L",
       "price": 23.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product11.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product11.png",
+      "description": "A timeless piece that radiates elegance. Crafted with the finest materials. Soft to the touch, gentle on the skin. Designed for those who appreciate beauty. A statement of sophistication and grace. Elevate your style effortlessly. Wear it, feel the confidence."
     },
     {
       "id": 12,
       "name": "Dewdrop Symphony",
       "size": "XL",
       "price": 28.75,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product12.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product12.png",
+      "description": "Inspired by the hues of twilight. Delicate textures meet bold expression. The perfect balance of art and fashion. Lightweight and breathable, ideal for all seasons. Soft contours designed to embrace movement. A fusion of nature and modernity. Discover comfort in every thread."
     },
     {
       "id": 13,
       "name": "Veil of Dawn",
-      "size": "M",
+      "size": "S",
       "price": 17.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product13.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product13.png",
+      "description": "Bathed in the glow of the golden hour. A symphony of soft hues and delicate details. Designed to flow seamlessly with your movement. A blend of tradition and contemporary charm. Lightweight yet durable for lasting wear. Every stitch tells a story of craftsmanship. A masterpiece woven into fabric."
     },
     {
       "id": 14,
       "name": "Ephemeral Glow",
-      "size": "S",
+      "size": "M",
       "price": 26.5,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product14.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product14.png",
+      "description": "Inspired by serene mornings and quiet reflections. Subtle yet powerful, bold yet refined. A texture that whispers comfort. Crafted to fit your body like a second skin. Simplicity redefined through intricate details. Designed to make a lasting impression. An elegant companion for any occasion."
     },
     {
       "id": 15,
       "name": "Rippled Dream",
       "size": "L",
       "price": 30.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product15.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product15.png",
+      "description": "A dance of light and shadow in fabric. A poetic interpretation of timeless fashion. Inspired by the beauty of nature's elements. Designed to keep you comfortable all day. A reflection of effortless elegance. Versatility meets refined aesthetics. Graceful, modern, and endlessly wearable."
     },
     {
       "id": 16,
       "name": "Fading Echoes",
       "size": "XL",
       "price": 20.25,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product16.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product16.png",
+      "description": "A timeless piece that radiates elegance. Crafted with the finest materials. Soft to the touch, gentle on the skin. Designed for those who appreciate beauty. A statement of sophistication and grace. Elevate your style effortlessly. Wear it, feel the confidence."
     },
     {
       "id": 17,
       "name": "Lucid Tranquility",
-      "size": "M",
+      "size": "S",
       "price": 22.75,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product17.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product17.png",
+      "description": "Inspired by the hues of twilight. Delicate textures meet bold expression. The perfect balance of art and fashion. Lightweight and breathable, ideal for all seasons. Soft contours designed to embrace movement. A fusion of nature and modernity. Discover comfort in every thread."
     },
     {
       "id": 18,
       "name": "Abyss of Light",
-      "size": "S",
+      "size": "M",
       "price": 29.49,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product18.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product18.png",
+      "description": "Bathed in the glow of the golden hour. A symphony of soft hues and delicate details. Designed to flow seamlessly with your movement. A blend of tradition and contemporary charm. Lightweight yet durable for lasting wear. Every stitch tells a story of craftsmanship. A masterpiece woven into fabric."
     },
     {
       "id": 19,
       "name": "Hushed Serenity",
       "size": "L",
       "price": 18.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product19.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product19.png",
+      "description": "Inspired by serene mornings and quiet reflections. Subtle yet powerful, bold yet refined. A texture that whispers comfort. Crafted to fit your body like a second skin. Simplicity redefined through intricate details. Designed to make a lasting impression. An elegant companion for any occasion."
     },
     {
       "id": 20,
       "name": "Gilded Waves",
       "size": "XL",
       "price": 24.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product20.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product20.png",
+      "description": "A dance of light and shadow in fabric. A poetic interpretation of timeless fashion. Inspired by the beauty of nature's elements. Designed to keep you comfortable all day. A reflection of effortless elegance. Versatility meets refined aesthetics. Graceful, modern, and endlessly wearable."
     },
     {
       "id": 21,
       "name": "Ember Whispers",
-      "size": "M",
+      "size": "S",
       "price": 27.25,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product21.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product21.png",
+      "description": "A timeless piece that radiates elegance. Crafted with the finest materials. Soft to the touch, gentle on the skin. Designed for those who appreciate beauty. A statement of sophistication and grace. Elevate your style effortlessly. Wear it, feel the confidence."
     },
     {
       "id": 22,
       "name": "Sunlit Mirage",
-      "size": "S",
+      "size": "M",
       "price": 21.5,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product22.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product22.png",
+      "description": "Inspired by the hues of twilight. Delicate textures meet bold expression. The perfect balance of art and fashion. Lightweight and breathable, ideal for all seasons. Soft contours designed to embrace movement. A fusion of nature and modernity. Discover comfort in every thread."
     },
     {
       "id": 23,
       "name": "Eclipsed Harmony",
       "size": "L",
       "price": 32.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product23.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product23.png",
+      "description": "Bathed in the glow of the golden hour. A symphony of soft hues and delicate details. Designed to flow seamlessly with your movement. A blend of tradition and contemporary charm. Lightweight yet durable for lasting wear. Every stitch tells a story of craftsmanship. A masterpiece woven into fabric."
     },
     {
       "id": 24,
       "name": "Wandering Luminescence",
       "size": "XL",
       "price": 19.75,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product24.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product24.png",
+      "description": "Inspired by serene mornings and quiet reflections. Subtle yet powerful, bold yet refined. A texture that whispers comfort. Crafted to fit your body like a second skin. Simplicity redefined through intricate details. Designed to make a lasting impression. An elegant companion for any occasion."
     },
     {
       "id": 25,
       "name": "Dusky Reflections",
-      "size": "M",
+      "size": "S",
       "price": 23.49,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product25.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product25.png",
+      "description": "A dance of light and shadow in fabric. A poetic interpretation of timeless fashion. Inspired by the beauty of nature's elements. Designed to keep you comfortable all day. A reflection of effortless elegance. Versatility meets refined aesthetics. Graceful, modern, and endlessly wearable."
     },
     {
       "id": 26,
       "name": "Soft Ember",
-      "size": "S",
+      "size": "M",
       "price": 28.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product26.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product26.png",
+      "description": "A timeless piece that radiates elegance. Crafted with the finest materials. Soft to the touch, gentle on the skin. Designed for those who appreciate beauty. A statement of sophistication and grace. Elevate your style effortlessly. Wear it, feel the confidence."
     },
     {
       "id": 27,
       "name": "Twilight Essence",
       "size": "L",
       "price": 26.75,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product27.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product27.png",
+      "description": "Inspired by the hues of twilight. Delicate textures meet bold expression. The perfect balance of art and fashion. Lightweight and breathable, ideal for all seasons. Soft contours designed to embrace movement. A fusion of nature and modernity. Discover comfort in every thread."
     },
     {
       "id": 28,
       "name": "Stardust Veil",
       "size": "XL",
       "price": 22.5,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product28.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product28.png",
+      "description": "Bathed in the glow of the golden hour. A symphony of soft hues and delicate details. Designed to flow seamlessly with your movement. A blend of tradition and contemporary charm. Lightweight yet durable for lasting wear. Every stitch tells a story of craftsmanship. A masterpiece woven into fabric."
     },
     {
       "id": 29,
       "name": "Moonlit Echo",
-      "size": "M",
+      "size": "S",
       "price": 31.25,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product29.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product29.png",
+      "description": "Inspired by serene mornings and quiet reflections. Subtle yet powerful, bold yet refined. A texture that whispers comfort. Crafted to fit your body like a second skin. Simplicity redefined through intricate details. Designed to make a lasting impression. An elegant companion for any occasion."
     },
     {
       "id": 30,
       "name": "Horizon Bloom",
-      "size": "S",
+      "size": "M",
       "price": 20.99,
-      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product30.png"
+      "image": "https://raw.githubusercontent.com/yuri1114/mee-gam-data/main/asset/product/product30.png",
+      "description": "A dance of light and shadow in fabric. A poetic interpretation of timeless fashion. Inspired by the beauty of nature's elements. Designed to keep you comfortable all day. A reflection of effortless elegance. Versatility meets refined aesthetics. Graceful, modern, and endlessly wearable."
     }
   ]
 }
